@@ -1,5 +1,5 @@
 ## Crowdfunding Data Processing
-This project processes crowdfunding data from an Excel file, performs data cleaning and transformation, and merges the data with category and subcategory information. The final cleaned data is exported to CSV files for further analysis.
+This project processes crowdfunding data from an Excel file, performs data cleaning and transformation, and merges the data with category and subcategory information. The final cleaned data is exported to campaign.CSV files for further analysis.
 
 # Installation
 1. Clone the repository
