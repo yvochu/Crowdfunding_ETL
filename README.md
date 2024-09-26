@@ -3,7 +3,7 @@
 This proyect involves extracting, transforming, and loading(ELT) data from crowdfunding and contacts Excel files into a PostgreSQL database. The proyect includes creating several DataFrames, exporting them as CSV files, and importing these files into a PostgreSQL.
 
 ## Proyect Structure
-### 1.Data Extraction and Tranformation
+### 1.Data Extraction and Transformation
 
  *Extract data from crowdfunding.xlsx to create category, subcategory, and campaign DataFrames.
  *Extract data from contacts.xlsx to create the contacts DataFrame.
