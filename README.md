@@ -20,6 +20,6 @@ This proyect involves extracting, transforming, and loading(ELT) data from crowd
  *Verify the data integrity.
  
 ## Contributions
-Yvonne Chukwu & Rosa Munoz
+
  
 
