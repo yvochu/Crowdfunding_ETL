@@ -18,6 +18,8 @@ This proyect involves extracting, trnasforming, and loading(ELT) data from crowd
  *Define the database schema and create tables.
  *Import the CSV files into the corresponding SQL tables.
  *Verify the data integrity.
-
+ 
+## Contributions
+Yvonne Chukwu & Rosa Munoz
  
 
