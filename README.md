@@ -4,8 +4,9 @@ This project processes crowdfunding data from an Excel file, performs data clean
 # Installation
 1. Clone the repository
 2. Install the required dependencies:
+   ```bash
    pip install pandas numpy openpyxl
-   
+   ```
 # Usage
 1. Place crowdfunding.xlsx file in the Resources directory
 2. Run the script:  ETL_Mini_Munoz_Rosa_Code.ipynb 
